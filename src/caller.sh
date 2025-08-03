@@ -1,1 +1,0 @@
-cp $(which docker) .
